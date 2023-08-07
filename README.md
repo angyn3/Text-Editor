@@ -1,4 +1,4 @@
-# PWA TEXT EDITOR
+# TEXT EDITOR
 
 # ![](https://img.shields.io/badge/license-MIT-brightgreen)
 
@@ -37,3 +37,6 @@
 
 ## Screenshot
 
+![Screenshot 2023-08-07 ](https://github.com/angyn3/Text-Editor/assets/125606232/40934815-67e6-4b9c-9bd8-75181df9d72f)
+![Screenshot 2023-08-07](https://github.com/angyn3/Text-Editor/assets/125606232/12cde3e6-d714-44d7-9dc7-fcbcc9be1e62)
+![Screenshot 2023-08-07](https://github.com/angyn3/Text-Editor/assets/125606232/bfcaeec1-b669-42e1-ba80-af14cd566952)
