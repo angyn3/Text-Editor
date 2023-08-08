@@ -35,6 +35,10 @@
 - WHEN I deploy to Heroku
 - THEN I should have proper build scripts for a webpack application
 
+## Installation
+- `npm i`
+- `npm run start:dev`
+
 ## Screenshot
 
 ![Screenshot 2023-08-07 ](https://github.com/angyn3/Text-Editor/assets/125606232/40934815-67e6-4b9c-9bd8-75181df9d72f)
